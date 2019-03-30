@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525536457 source:/root/Animation/main.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
+1525536457 source:/media/root/B2/Home/Documents/openGL/Car_Animation/Animation/main.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
